@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'PipesCheckpoint';
+
+  ids = [1, 2, 3]
 }
